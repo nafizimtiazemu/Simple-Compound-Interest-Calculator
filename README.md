@@ -1,5 +1,4 @@
 # Simple-Compound-Interest-Calculator
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/nafizimtiazemu/Simple-Compound-Interest-Calculator)
 
 A simple command-line application written in Java to calculate compound interest.
 
